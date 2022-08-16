@@ -1,10 +1,13 @@
 <h2 align="center">
-  ➔ Hi 🌙 
+  🌙» Hi «🌙
   </h1>
-<h5 align="center">**Welcome on my Git profile, nice to see u**</h1>
+<h5 align="center"☁️» >Welcome on my Git profile, nice to see you«☁️</h1>
+<p align="center">
+<img align="center" src="Natrexq.png" width="600px" >  
+  </p>
 
-<img align="center" src="Natrexq.png" width="600px" >
 <br/>
+
 
 <!--
 **Natrexq/Natrexq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
