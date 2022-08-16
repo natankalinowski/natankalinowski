@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **Welcome on my Git profile, nice to see u**
-<img src="Natrexq.png" width="600px" >
+<img src="Natrexq.png" width="800px" >
 <br/>
 
 <!--
