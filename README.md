@@ -6,7 +6,7 @@
 <img align="center" src="Natrexq.png" width="600px" >  
   </p>
 <h5 align="center"⚡» About Me «☁⚡</h1>
-<p align="center">
+<p align="left">
  ➖ 🌙 My name is Natan /eng: Nathan ...
  ➖ 🌵 I'am 17 years old ...
  ➖ 🌍 I'am from Poland
