@@ -1,25 +1,22 @@
 <h2 align="center">
   🌙» Hi «🌙
-  </h1>
-<h5 align="center"☁️» >Welcome on my Git profile, nice to see you«☁️</h1>
+  </h2>
+<h5 align="center"☁️» >Welcome on my Git profile, nice to see you «☁️</h5>
 <p align="center">
 <img align="center" src="Natrexq.png" width="600px" >  
   </p>
+<h5 align="center"⚡» About Me «☁⚡</h1>
+<p align="center">
+ ➖ 🌙 My name is Natan /eng: Nathan ...
+ ➖ 🌵 I'am 17 years old ...
+ ➖ 🌍 I'am from Poland
+ ➖ ♻️ I wanna be Front-End Dev in the future, currently i learning mid-advanced JS ...
+ </p>
+  <br />
+ <h5 align="center">📫» Contact «📫</h5>
+  🌌» DC: Natrexq#2400
+  💬» EM: soon@soon.com 
+   <br />
+   <h5 align="center"🪐» Thats All, bye ...«🪐</h5>
 
-<br/>
 
-
-<!--
-**Natrexq/Natrexq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’am currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
