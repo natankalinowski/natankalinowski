@@ -1,7 +1,7 @@
 ### Hi there 👋
+<h1 align="center">**Welcome on my Git profile, nice to see u**</h1>
 
-**Welcome on my Git profile, nice to see u**
-<img justify-content="center" src="Natrexq.png" width="800px" >
+<img src="Natrexq.png" width="800px" >
 <br/>
 
 <!--
