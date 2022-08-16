@@ -5,8 +5,8 @@
 <p align="center">
 <img align="center" src="Natrexq.png" width="600px" >  
   </p>
-  <h4 align="center">⚡» About Me «⚡</h4>
- <h5 align="center">
+  <h3 align="center">⚡» About Me «⚡</h3>
+ <h4 align="center">
   ➖ 🌙 My name is Natan /eng: Nathan ...
   <br />
  ➖ 🌵 I'am 17 years old ...
@@ -14,7 +14,7 @@
  ➖ 🌍 I'am from Poland
   <br />
  ➖ ♻️ I wanna be Front-End Dev in the future, currently i learning mid-advanced JS ...
-</h5>
+</h4>
 
 
   <br />
@@ -26,6 +26,6 @@
   </p>
   
    <br />
-   <h5 align="center"🪐» Thats All, bye ...«🪐</h5>
+   <h6 align="center"🪐» Thats All, bye ...«🪐</h6>
   
 
