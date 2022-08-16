@@ -23,7 +23,7 @@
       💬» EM: soon@soon.com 
    <br />
    <h5 align="center"🪐» Thats All, bye ...«🪐</h5>
-   <p align="center">
+   <dd align="center">
   ➖ 🌙 My name is Natan /eng: Nathan ...
   <br />
  ➖ 🌵 I'am 17 years old ...
@@ -31,6 +31,6 @@
  ➖ 🌍 I'am from Poland
   <br />
  ➖ ♻️ I wanna be Front-End Dev in the future, currently i learning mid-advanced JS ...
-</p>
+</dd>
 
 
