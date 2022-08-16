@@ -1,7 +1,9 @@
-### Hi there 👋
-<h1 align="center">**Welcome on my Git profile, nice to see u**</h1>
+<h2 align="center">
+  ### Hi 🌙
+  </h1>
+<h5 align="center">**Welcome on my Git profile, nice to see u**</h1>
 
-<img src="Natrexq.png" width="800px" >
+<img align="center" src="Natrexq.png" width="600px" >
 <br/>
 
 <!--
