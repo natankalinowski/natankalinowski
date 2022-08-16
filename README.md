@@ -23,5 +23,8 @@
       💬» EM: soon@soon.com 
    <br />
    <h5 align="center"🪐» Thats All, bye ...«🪐</h5>
+   <p align="center">
+    kurde  
+</p>
 
 
