@@ -5,7 +5,7 @@
 <p align="center">
 <img align="center" src="Natrexq.png" width="600px" >  
   </p>
-<h3 align="center">⚡» About Me «⚡</h3>
+
 <p align="center">
   <br />
 
