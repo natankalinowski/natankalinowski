@@ -1,8 +1,9 @@
+<img src="Natrexq.png" >
 ### Hi there 👋
 
-**Welcome on my Git profile**
+**Welcome on my Git profile, nice to see u**
 
-<img src="Natrexq.png" >
+
 <!--
 **Natrexq/Natrexq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
