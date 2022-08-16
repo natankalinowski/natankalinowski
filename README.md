@@ -3,7 +3,7 @@
   </h2>
 <h5 align="center">☁️» Welcome on my Git profile, nice to see you «☁️</h5>
 <p align="center">
-<img align="center" src="Natrexq.png" width="600px" >  
+<img align="center" src="Natrexq.png" width="800px" >  
   </p>
   <h4 align="center">⚡» About Me «⚡</h4>
  <h5 align="center">
