@@ -5,10 +5,11 @@
 <p align="center">
 <img align="center" src="Natrexq.png" width="600px" >  
   </p>
-<h5 align="center"⚡» About Me «☁⚡</h1>
+<h5 align="center"⚡» About Me «☁⚡</h5>
 <p>
   <br />
- ➖ 🌙 My name is Natan /eng: Nathan ...
+
+  ➖ 🌙 My name is Natan /eng: Nathan ...
   <br />
  ➖ 🌵 I'am 17 years old ...
   <br />
