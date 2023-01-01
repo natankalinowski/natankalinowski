@@ -1,7 +1,7 @@
 <h1 align="center">
   ⚡» Hello «⚡
   </h1>
-<h4 align="center">☁️» Welcome on my Git profile, nice to see you «☁️</h4>
+<h4 align="center">☁️» Welcome on my GitHub profile, nice to see you «☁️</h4>
 <p align="center">
 
   </p>
