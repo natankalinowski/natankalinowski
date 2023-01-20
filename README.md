@@ -16,7 +16,7 @@
  ➖ ♻️ I wanna be Front-End Dev in the future, currently i learning mid-advanced JS ...
 </h4>
 
-  <br />
+
  <h4 align="center">📫» Contact «📫</h4>
  <p align="center">
   🌌» DC: Natrexq#2400  
@@ -24,7 +24,6 @@
   💬» EM: soon@soon.com 
   </p>
   
-   <br />
    <h5 align="center"🪐» Thats All, bye ...«🪐</h5>
   <img align="left" src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"/>
 <img align="left" src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/>
