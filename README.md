@@ -6,7 +6,7 @@
 
   </p>
   <h4 align="center">🌚» About Me:</h4>
- <h4 align="center">
+ <h4 align="">
   🌙» My name is Natan [eng: Nathan]
   <br />
  🌵» I'am 17 ...
