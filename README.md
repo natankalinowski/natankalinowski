@@ -2,11 +2,9 @@
   👋» Hello 
   </h1>
 <h4 align="center">☁️» Welcome on my GitHub prof, nice to see you </h4>
-<p align="center">
-
-  </p>
-  <h4 align="center">🌚» About Me:</h4>
- <h4 align="">
+  <h4 align="">🌚» About Me:</h4>
+  <br />
+<h4 align="">
   🌙» My name is Natan [eng: Nathan]
   <br />
  🌵» I'am 17 ...
@@ -19,8 +17,8 @@
   
 </h4>
 
- <h4 align="center">📫» Contact With Me:</h4>
- <p align="center">
+ <h4 align="">📫» Contact With Me:</h4>
+ <p align="">
   🌌» DC: Natrexq#2400  
    <br />
   💬» E-mail: natreksiki@gmail.com  
