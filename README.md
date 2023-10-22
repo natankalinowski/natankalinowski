@@ -1,4 +1,4 @@
-<h1 align="center" style="color: green" >Hi 👋, I'm Natan Kalinowski</h1>
+<p align="center"><h1>Hi 👋, I'm Natan Kalinowski</h1> </p>
 <h3 align="center">A passionate frontend developer from Poland 🇵🇱</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=natankalinowski&label=Profile%20views&color=0e75b6&style=flat" alt="natankalinowski" /> </p>
