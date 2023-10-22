@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natankalinowski&label=Profile%20views&color=0e75b6&style=flat" alt="natankalinowski" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natankalinowski" alt="natankalinowski" /></a> </p>
-
 - 🌱 I’m currently learning **Advanced CSS and React**
 
 - 📫 How to reach me **natan.kalinowski05@gmail.com**
