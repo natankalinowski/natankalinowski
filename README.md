@@ -3,6 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=natankalinowski&label=Profile%20views&color=0e75b6&style=flat" alt="natankalinowski" /> </p>
 
+<ul align="center">
+  <li>aaaaa</li>
+</ul>
 - 📅 I'm 17
 - 👨‍💻 I've been programming since 2019
 - 💻 I want to become a front-end developer in 2024
