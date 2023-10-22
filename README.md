@@ -13,15 +13,12 @@
  🐶» I love dogs
   <br />
   🎯» My goal is become Front-End Developer in 2024.
-  
 </h4> 
-
 
  <h4 align="">📫» Contact With Me:</h4>
  <p align="">
-  🌌» DC: Natrexq#2400  
    <br />
-  💬» E-mail: natreksiki@gmail.com  
+  💬» E-mail: natan.kalinowski05@gmail.com
   </p>
   
  
