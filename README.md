@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Natan Kalinowski</h1> </p>
-<h3>A passionate frontend developer from Poland 🇵🇱</h3>
+<h3>Future frontend developer from Poland 🇵🇱</h3>
 
 # 💫 About Me:
 - 📅 I'm 17<br>- 👨‍💻 I've been programming since 2019<br>- 💻 I want to become a front-end developer in 2024<br>- 🌱 I’m currently learning **Advanced CSS and React**<br>- 📫 You can reach me using this email **natan.kalinowski05@gmail.com**<br>- *or other social media below:*
