@@ -3,15 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=natankalinowski&label=Profile%20views&color=0e75b6&style=flat" alt="natankalinowski" /> </p>
 
-<ul align="center">
-  <li>aaaaa</li>
-</ul>
-- 📅 I'm 17
-- 👨‍💻 I've been programming since 2019
-- 💻 I want to become a front-end developer in 2024
-- 🌱 I’m currently learning **Advanced CSS and React**
-- 📫 You can reach me using this email **natan.kalinowski05@gmail.com**
-- *or other social media below:*
+<p align="center">- 📅 I'm 17</p>
+<p align="center">- 👨‍💻 I've been programming since 2019</p>
+<p align="center">- 💻 I want to become a front-end developer in 2024</p>
+<p align="center">- 🌱 I’m currently learning **Advanced CSS and React**</p>
+<p align="center">- 📫 You can reach me using this email **natan.kalinowski05@gmail.com**</p>
+<p align="center">- *or other social media below:*</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
